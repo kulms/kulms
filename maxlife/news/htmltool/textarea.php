@@ -1,0 +1,1 @@
+<iframe width="100%" marginwidth="0" height="100%" marginheight="0" class="CText" id="idContent" leftmargin="0" topmargin="0"<? if($HTMLsrc!="") { echo " src=\"$HTMLsrc\""; } ?>></iframe>

@@ -1,0 +1,18 @@
+.htmltool_select { font-family: "MS Sans Serif"; font-size: 10px; color: #000000; background-color: #DEDEBB; border-width: 1px; border-left-width: 1px; border-right-width: 1px; border-color: #FFFFDD; height:18px; text-align: left; }
+a:link { color: #0055AA; text-decoration: none }
+a:visited { color: #0055AA; text-decoration: none }
+a:active { color: #FF0000; text-decoration: none }
+a:hover { color: #FF0000; text-decoration: none }
+#htmltool_table { font-size: 10px; font-family: "MS Sans Serif" } 
+.htmltool_button_th_normal { font-family : "MS Sans Serif"; font-size: 10px; color: #000000; font-weight: bold; border-width: 1px; border-left-width: 1px; border-right-width: 1px; height:18px; text-align: center; }
+.htmltool_button_th_120 { font-family : "MS Sans Serif"; font-size: 10px; color: #000000; font-weight: bold; border-width: 1px; border-left-width: 1px; border-right-width: 1px; height:18px; width:120px; text-align: center; }
+.htmltool_button_th_60 { font-family : "MS Sans Serif"; font-size: 10px; color: #000000; font-weight: bold; border-width: 1px; border-left-width: 1px; border-right-width: 1px; height:18px; width:60px; text-align: center; }
+.htmltool_button_th_80 { font-family : "MS Sans Serif"; font-size: 10px; color: #000000; font-weight: bold; border-width: 1px; border-left-width: 1px; border-right-width: 1px; height:18px; width:80px; text-align: center; }
+.htmltool_button_normal { font-family : Verdana; font-size: 10px; color: #000000; font-weight: bold; border-width: 1px; border-left-width: 1px; border-right-width: 1px; height:18px; text-align: center; }
+.htmltool_button_120 { font-family : Verdana; font-size: 10px; color: #000000; font-weight: bold; border-width: 1px; border-left-width: 1px; border-right-width: 1px; height:18px; width:120px; text-align: center; }
+.htmltool_button_60 { font-family : Verdana; font-size: 10px; color: #000000; font-weight: bold; border-width: 1px; border-left-width: 1px; border-right-width: 1px; height:18px; width:60px; text-align: center; }
+.htmltool_button_80 { font-family : Verdana; font-size: 10px; color: #000000; font-weight: bold; border-width: 1px; border-left-width: 1px; border-right-width: 1px; height:18px; width:80px; text-align: center; }
+.htmltool_input_center { font-family: "MS Sans Serif"; font-size: 10px; color: #000000; background-color: #DEDEBB; border-width: 1px; border-left-width: 1px; border-right-width: 1px; border-color: #FFFFDD; height:18px; text-align: center; }
+.htmltool_input_left { font-family: "MS Sans Serif"; font-size: 10px; color: #000000; background-color: #DEDEBB; border-width: 1px; border-left-width: 1px; border-right-width: 1px; border-color: #FFFFDD; height:18px; text-align: left; }
+.htmltool_input_right { font-family: "MS Sans Serif"; font-size: 10px; color: #000000; background-color: #DEDEBB; border-width: 1px; border-left-width: 1px; border-right-width: 1px; border-color: #FFFFDD; height:18px; text-align: right; }
+.htmltool_input_textarea { font-family: "MS Sans Serif"; font-size: 10px; color: #000000; background-color: #DEDEBB; border-width: 1px; border-left-width: 1px; border-right-width: 1px; border-color: #FFFFDD; text-align: left; }
